@@ -1,9 +1,10 @@
 # CG
 Trabalhos desenvolvidos durante a disciplina de computação gráfica de 2020.2, pelos alunos: Klismann e Thaís Gabrielly
+Assuntos: JAVASCRIPT E THREE.JS
 
 Sumário >>>>
 
-	Atividade 0 -> JAVASCRIPT E THREE.JS (introdução).
+	Atividade 0 -> JAVASCRIPT (introdução).
 	Atividade prática 1 -> Rasterização de Linhas. 
 	Atividade prática 2 -> Implementação do Pipeline Gráfico
 	Atividade prática 3 -> Implementação de Modelos de Iluminação 
