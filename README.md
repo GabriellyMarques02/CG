@@ -1,4 +1,5 @@
-# CG
+# Computação Gráfica 
+
 Trabalhos desenvolvidos durante a disciplina de computação gráfica de 2020.2, pelos alunos: Klismann e Thaís Gabrielly
 
 Assuntos: JAVASCRIPT E THREE.JS
